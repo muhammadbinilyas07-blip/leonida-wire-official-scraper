@@ -2673,6 +2673,39 @@
         "num_stylesheets": 43,
         "page_title": "Grand Theft Auto VI - Rockstar Games",
         "meta_description": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida \u2014 forced to rely on each other more than ever if they want to make it out alive."
+      },
+      {
+        "timestamp": "2026-11-18T15:48:47.625116+00:00",
+        "url": "https://www.rockstargames.com/VI/",
+        "status": "INTELLIGENCE_UPDATE",
+        "http_code": 200,
+        "total_time_ms": 202.04,
+        "dns_time_ms": 43.08,
+        "tcp_time_ms": 14.79,
+        "transfer_time_ms": 144.17,
+        "content_ok": true,
+        "found_keywords": [
+          "Grand Theft Auto",
+          "GTA VI",
+          "Rockstar"
+        ],
+        "security_headers": {
+          "strict-transport-security": true,
+          "x-content-type-options": false,
+          "content-security-policy": false,
+          "x-frame-options": false,
+          "referrer-policy": false
+        },
+        "engagement": {},
+        "content_hash": "b8cff4e83c37363542b09e3330e944758a63c24761d55551c2814a98237a0158",
+        "intelligence_update": true,
+        "html_size_kb": 1224.02,
+        "num_images": 36,
+        "num_links": 28,
+        "num_scripts": 355,
+        "num_stylesheets": 52,
+        "page_title": "Grand Theft Auto VI - Rockstar Games",
+        "meta_description": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida \u2014 forced to rely on each other more than ever if they want to make it out alive."
       }
     ],
     "rockstar_newswire": [
@@ -5261,6 +5294,38 @@
         "content_hash": "1af3d96b00c7c18397d8622fd0641c32f8d69da49e7e6395a6b705dc5e04842f",
         "intelligence_update": true,
         "html_size_kb": 4.14,
+        "num_images": 0,
+        "num_links": 0,
+        "num_scripts": 4,
+        "num_stylesheets": 0,
+        "page_title": "Newswire - Rockstar Games",
+        "meta_description": "The official destination for Rockstar game announcements and updates, trailer launches, screenshot unveilings, events, soundtrack details, community creations and a lot more."
+      },
+      {
+        "timestamp": "2026-11-18T15:48:47.915930+00:00",
+        "url": "https://www.rockstargames.com/newswire",
+        "status": "INTELLIGENCE_UPDATE",
+        "http_code": 200,
+        "total_time_ms": 88.51,
+        "dns_time_ms": 0.45,
+        "tcp_time_ms": 25.69,
+        "transfer_time_ms": 62.37,
+        "content_ok": true,
+        "found_keywords": [
+          "Rockstar",
+          "News"
+        ],
+        "security_headers": {
+          "strict-transport-security": true,
+          "x-content-type-options": false,
+          "content-security-policy": false,
+          "x-frame-options": false,
+          "referrer-policy": true
+        },
+        "engagement": {},
+        "content_hash": "7e3cb0f63ff26f3279a2d6e4121c6f01c2eb00f58a820f5d812d5c305741788b",
+        "intelligence_update": true,
+        "html_size_kb": 4.04,
         "num_images": 0,
         "num_links": 0,
         "num_scripts": 4,
@@ -7934,6 +7999,39 @@
         "num_stylesheets": 6,
         "page_title": "Grand Theft Auto VI - PS5 Games | PlayStation (US)",
         "meta_description": "Pre-order Grand Theft Auto VI at PlayStation.com now. Experience the biggest, most immersive evolution of the Grand Theft Auto series yet when GTA VI releases on 19 November 2026. GTA 6 is only playable on PS5 and is not available for PS4."
+      },
+      {
+        "timestamp": "2026-11-18T15:48:48.042844+00:00",
+        "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+        "status": "INTELLIGENCE_UPDATE",
+        "http_code": 200,
+        "total_time_ms": 282.41,
+        "dns_time_ms": 99.25,
+        "tcp_time_ms": 4.45,
+        "transfer_time_ms": 178.71,
+        "content_ok": true,
+        "found_keywords": [
+          "Grand Theft Auto",
+          "GTA VI",
+          "PlayStation"
+        ],
+        "security_headers": {
+          "strict-transport-security": true,
+          "x-content-type-options": true,
+          "content-security-policy": false,
+          "x-frame-options": true,
+          "referrer-policy": true
+        },
+        "engagement": {},
+        "content_hash": "b47b1ea6e212b19bed69dff17ac8dcfea19108f4e3d1c23c65e1f418bf9c9706",
+        "intelligence_update": true,
+        "html_size_kb": 396.3,
+        "num_images": 43,
+        "num_links": 100,
+        "num_scripts": 39,
+        "num_stylesheets": 6,
+        "page_title": "Grand Theft Auto VI - PS5 Games | PlayStation (US)",
+        "meta_description": "Pre-order Grand Theft Auto VI at PlayStation.com now. Experience the biggest, most immersive evolution of the Grand Theft Auto series yet when GTA VI releases on 19 November 2026. GTA 6 is only playable on PS5 and is not available for PS4."
       }
     ],
     "xbox_store": [
@@ -10524,6 +10622,38 @@
         "html_size_kb": 459.88,
         "num_images": 14,
         "num_links": 161,
+        "num_scripts": 21,
+        "num_stylesheets": 6,
+        "page_title": "Your Privacy Choices Opt-Out Icon",
+        "meta_description": null
+      },
+      {
+        "timestamp": "2026-11-18T15:48:48.445169+00:00",
+        "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NL3WWNZLZZN",
+        "status": "INTELLIGENCE_UPDATE",
+        "http_code": 200,
+        "total_time_ms": 534.28,
+        "dns_time_ms": 152.37,
+        "tcp_time_ms": 23.24,
+        "transfer_time_ms": 358.67,
+        "content_ok": true,
+        "found_keywords": [
+          "Grand Theft Auto",
+          "Xbox"
+        ],
+        "security_headers": {
+          "strict-transport-security": true,
+          "x-content-type-options": true,
+          "content-security-policy": false,
+          "x-frame-options": true,
+          "referrer-policy": false
+        },
+        "engagement": {},
+        "content_hash": "b34cbc48e81e48d972b9e204e239664c846d4c4da3fad702977671825be0b09b",
+        "intelligence_update": true,
+        "html_size_kb": 459.38,
+        "num_images": 14,
+        "num_links": 159,
         "num_scripts": 21,
         "num_stylesheets": 6,
         "page_title": "Your Privacy Choices Opt-Out Icon",
